@@ -21,6 +21,6 @@
   <img src="buttons/deadlock-yamato.gif" alt="Deadlock: Yamato" width="88" height="31" />
   <a href="https://f44.neocities.org/"><img src="buttons/faa.gif" alt="FAA" width="88" height="31" /></a>
   <img src="buttons/nowebp.gif" alt="No WebP" width="88" height="31" />
-  <a href="https://open.spotify.com/user/31ncribxd4bktzcktu4iwwhzwglq?si=6f2ec6ca34904184"><img src="buttons/aphex-twin.gif" alt="Aphex Twin" width="88" height="31" /></a>
+  <a href="https://open.spotify.com/user/31ncribxd4bktzcktu4iwwhzwglq"><img src="buttons/aphex-twin.gif" alt="Aphex Twin" width="88" height="31" /></a>
   <img src="buttons/best_viewed_with_eyes.gif" alt="Best viewed with eyes" width="88" height="31" />
 </p>
