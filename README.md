@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/riolink"><img src="buttons/linkedin.gif" alt="LinkedIn" width="88" height="31" /></a>
   <img src="buttons/rust.gif" alt="Rust" width="88" height="31" />
   <img src="buttons/typescript.gif" alt="TypeScript" width="88" height="31" />
-  <img src="buttons/linux.gif" alt="Linux" width="88" height="31" />
+  <img src="buttons/linux.gif" alt="GNU+Linux" width="88" height="31" />
   <br />
   <img src="buttons/kallisti.gif" alt="Kallisti" width="88" height="31" />
   <img src="buttons/flag-bangladesh.gif" alt="Bangladesh" width="88" height="31" />
@@ -17,7 +17,7 @@
   <img src="buttons/free-palestine.gif" alt="Free Palestine" width="88" height="31" />
   <img src="buttons/lain.gif" alt="Present day, present time" width="88" height="31" />
   <br />
-  <img src="buttons/anybrowser2.gif" alt="Any browser" width="88" height="31" />
+  <img src="buttons/portal.gif" alt="The cake is a lie" width="88" height="31" />
   <img src="buttons/best_viewed_with_eyes.gif" alt="Best viewed with eyes" width="88" height="31" />
   <img src="buttons/y2k.gif" alt="Y2K" width="88" height="31" />
   <img src="buttons/nowebp.gif" alt="No WebP" width="88" height="31" />
