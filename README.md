@@ -10,7 +10,7 @@
   <a href="https://github.com/serialexperimentsrio/paiger"><img src="buttons/typescript.gif" alt="TypeScript" width="88" height="31" /></a>
   <img src="buttons/gnu-linux.gif" alt="GNU+Linux" width="88" height="31" />
   <br />
-  <img src="buttons/kallisti.gif" alt="Kallisti" width="88" height="31" />
+  <img src="buttons/kallisti-glint.gif" alt="Kallisti" width="88" height="31" />
   <a href="https://en.wikipedia.org/wiki/Bangladesh"><img src="buttons/flag-bangladesh.gif" alt="Bangladesh" width="88" height="31" /></a>
   <a href="https://en.wikipedia.org/wiki/Japan"><img src="buttons/flag-japan.gif" alt="Japan" width="88" height="31" /></a>
   <a href="https://en.wikipedia.org/wiki/South_Korea"><img src="buttons/flag-south-korea.gif" alt="South Korea" width="88" height="31" /></a>
