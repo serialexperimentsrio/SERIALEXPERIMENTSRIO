@@ -4,16 +4,18 @@
 
 <p align="center">
   <a href="https://blubird.pages.dev"><img src="buttons/blubird.gif" alt="blubird.pages.dev" width="88" height="31" /></a>
-  <img src="buttons/discord.gif" alt="Discord: omarkhayyamravenhurst" width="88" height="31" />
+  <a href="https://discord.com/users/1380615667769671784"><img src="buttons/discord.gif" alt="Discord: omarkhayyamravenhurst" width="88" height="31" /></a>
   <a href="https://www.linkedin.com/in/riolink"><img src="buttons/linkedin.gif" alt="LinkedIn" width="88" height="31" /></a>
   <img src="buttons/rust.gif" alt="Rust" width="88" height="31" />
   <img src="buttons/typescript.gif" alt="TypeScript" width="88" height="31" />
   <img src="buttons/linux.gif" alt="Linux" width="88" height="31" />
   <br />
+  <img src="buttons/kallisti.gif" alt="Kallisti" width="88" height="31" />
   <img src="buttons/flag-bangladesh.gif" alt="Bangladesh" width="88" height="31" />
   <img src="buttons/flag-japan.gif" alt="Japan" width="88" height="31" />
   <img src="buttons/flag-south-korea.gif" alt="South Korea" width="88" height="31" />
   <img src="buttons/free-palestine.gif" alt="Free Palestine" width="88" height="31" />
+  <img src="buttons/lain.gif" alt="Present day, present time" width="88" height="31" />
   <br />
   <img src="buttons/anybrowser2.gif" alt="Any browser" width="88" height="31" />
   <img src="buttons/best_viewed_with_eyes.gif" alt="Best viewed with eyes" width="88" height="31" />
