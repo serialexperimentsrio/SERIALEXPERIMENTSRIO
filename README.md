@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/riolink"><img src="buttons/linkedin.gif" alt="LinkedIn" width="88" height="31" /></a>
   <img src="buttons/rust.gif" alt="Rust" width="88" height="31" />
   <img src="buttons/typescript.gif" alt="TypeScript" width="88" height="31" />
-  <img src="buttons/linux.gif" alt="GNU+Linux" width="88" height="31" />
+  <img src="buttons/gnu-linux.gif" alt="GNU+Linux" width="88" height="31" />
   <br />
   <img src="buttons/kallisti.gif" alt="Kallisti" width="88" height="31" />
   <img src="buttons/flag-bangladesh.gif" alt="Bangladesh" width="88" height="31" />
