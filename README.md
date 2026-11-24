@@ -21,6 +21,6 @@
   <img src="buttons/deadlock-yamato.gif" alt="Deadlock: Yamato" width="88" height="31" />
   <a href="https://f44.neocities.org/"><img src="buttons/faa.gif" alt="FAA" width="88" height="31" /></a>
   <img src="buttons/nowebp.gif" alt="No WebP" width="88" height="31" />
-  <img src="buttons/cyberrot.gif" alt="Cyber rot" width="88" height="31" />
+  <img src="buttons/matrix.gif" alt="Matrix" width="88" height="31" />
   <img src="buttons/best_viewed_with_eyes.gif" alt="Best viewed with eyes" width="88" height="31" />
 </p>
