@@ -18,7 +18,7 @@
   <img src="buttons/lain.gif" alt="Present day, present time" width="88" height="31" />
   <br />
   <img src="buttons/portal.gif" alt="The cake is a lie" width="88" height="31" />
-  <img src="buttons/deadlock.gif" alt="Deadlock: Yamato" width="88" height="31" />
+  <img src="buttons/deadlock-yamato.gif" alt="Deadlock: Yamato" width="88" height="31" />
   <img src="buttons/y2k.gif" alt="Y2K" width="88" height="31" />
   <img src="buttons/nowebp.gif" alt="No WebP" width="88" height="31" />
   <img src="buttons/cyberrot.gif" alt="Cyber rot" width="88" height="31" />
