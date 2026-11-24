@@ -22,5 +22,5 @@
   <a href="https://f44.neocities.org/"><img src="buttons/faa-friend.gif" alt="FAA, my friend" width="88" height="31" /></a>
   <img src="buttons/nowebp.gif" alt="No WebP" width="88" height="31" />
   <a href="https://open.spotify.com/user/31ncribxd4bktzcktu4iwwhzwglq"><img src="buttons/aphex-twin.gif" alt="Aphex Twin" width="88" height="31" /></a>
-  <img src="buttons/best_viewed_with_eyes.gif" alt="Best viewed with eyes" width="88" height="31" />
+  <a href="https://letterboxd.com/eyecansee/"><img src="buttons/best_viewed_with_eyes.gif" alt="Best viewed with eyes" width="88" height="31" /></a>
 </p>
